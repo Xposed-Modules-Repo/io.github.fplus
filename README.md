@@ -2,9 +2,11 @@
 
 [![](https://img.shields.io/github/v/release/GangJust/FreedomPlus)](https://github.com/GangJust/FreedomPlus/releases) [![](https://img.shields.io/github/downloads/GangJust/FreedomPlus/total?color=g)]() [![](https://img.shields.io/badge/telegram-freedom%2B-2481CC)](https://t.me/FreedomPlugin)
 
-依赖于抖音运行的开源Xposed模块
+依赖于抖音运行的开源Xposed模块，Lsposed正常使用，其他框架自测。
 
-----
+需要抖音**文件读写权限**读取模块配置，另外如果频繁崩溃，可尝试更换64位抖音。
+
+已知网络上下载的**抖音历史版本**大多数都是32位。
 
 
 
@@ -17,6 +19,7 @@
 - 首页清爽模式隐藏大部分控件
 - 顶部Tab栏自定义隐藏
 - 禁用双击点赞
+- 视频过滤(直播、广告、长视频、文案关键字等)
 
 
 
